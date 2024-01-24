@@ -62,7 +62,6 @@ a:visited {
 
   main {
     box-shadow: none;
+    border-radius: none;
   }
-
-  
 }
