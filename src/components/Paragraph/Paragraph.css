@@ -1,0 +1,38 @@
+.paragraph {
+  margin: 8px 0;
+}
+.paragraph > h3 {
+  margin: 0 0 4px 0;
+  font-weight: 600;
+  font-size: 0.8rem;
+}
+
+.paragraph > p {
+  margin: 0;
+}
+
+.paragraph > p > br {
+  height: 4px;
+  display: block;
+  content: " ";
+}
+
+.paragraph > .paragraph {
+  border-left: solid 2px #999;
+  margin: 0;
+  padding: 8px 0 8px 10px;
+}
+
+.paragraph > .paragraph:first-of-type {
+  margin: 8px 0 0 0;
+  padding: 0 0 0 10px;
+}
+
+.paragraph > .paragraph:last-of-type {
+  margin: 0 0 8px 0;
+  padding: 0 0 0 10px;
+}
+
+.paragraph > .paragraph > h3 {
+  color: #999;
+}

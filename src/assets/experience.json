@@ -1,0 +1,125 @@
+{
+  "professional": {
+    "title": "Professional",
+    "paragraphs": [
+      {
+        "title": "202205 - Present • Booking.com • Amsterdam",
+        "content": [
+          "Fullstack developer in the core platform team, focusing on the development of an in-house micro-frontend framework supporting the replatforming of Booking.com.",
+          "Responsible for a high-criticality orchestrator connecting all frontend services in the Booking.com presentation layer (25k RPS).",
+          "Developed a framework to share and integrate components across all products to enable multi-product offerings while ensuring a consistent customer experience."
+        ]
+      },
+      {
+        "title": "202009 - 202205 • Netlight • Stockholm",
+        "content": "As a consultant, I’ve had the opportunity to work in a multitude of industries, such as public service, food tech and e-comm, enabling me to develop and apply my skills in a wide array of domains.",
+        "children": [
+          {
+            "title": "202102 - 202204 • SVT • Fullstack Developer",
+            "content": "As part of a new initiative within Sweden's public service company (SVT), I developed a new planning tool that is used for long term planning of content on the platform SVT Play. Being the only developer for the majority of the project, I was responsible for the complete development process."
+          },
+          {
+            "title": "202011 - 202102 • Lantmännen • Data Scientist",
+            "content": "In collaboration with domain experts, I developed prediction models for seed quality with the aim to assist machine operators at Lantmännen’s many production sites."
+          },
+          {
+            "title": "202009 - 202011 • Footway • Fullstack Developer",
+            "content": "I supported the company with feature delivery in a turbulent time when it was in the final stages of developing a new common e-commerce platform to be used by its many subsidiaries."
+          }
+        ]
+      },
+      {
+        "title": "202001 - 202006 • Volvo Group, Gothenburg",
+        "content": "Master thesis work in Supply Chain optimisation using deep reinforcement learning to optimise the order quantities in Volvo’s aftermarket distribution."
+      },
+      {
+        "title": "201908 - 201912 • Nepa, Stockholm",
+        "content": "Master thesis work in applied factor analysis focusing on improving the core of Nepa’s brand tracking engine. I solely implemented a Dynamic Factor Analysis model that halved the required amount of sourced panelist data, while maintaining the same level of accuracy."
+      },
+      {
+        "title": "201809 - 201912 • We Know IT, Linköping",
+        "content": "Web and mobile application development with a great variety of full stack projects for mobile and web. As a sole consultant, I completed projects from the idea stage to deployment, with clients within the public sector as well as industry-leading corporations."
+      },
+      {
+        "title": "201901 - 201905 • Airpelago, Linköping",
+        "content": "Startup aiming to create a web-based platform for drone control in cooperation with the Swedish Sea Rescue Society. Tasks mainly involving frontend development in React with Redux."
+      }
+    ]
+  },
+  "skills": {
+    "title": "Skills",
+    "chips": [
+      "TypeScript",
+      "React",
+      "Next.js",
+      "Node.js",
+      "R",
+      "Python",
+      "TensorFlow",
+      "GraphQL",
+      "Redis",
+      "Jest",
+      "AirFlow",
+      "GCP",
+      "Docker",
+      "SQL",
+      "Pandas",
+      "Git",
+      "Firebase",
+      "Redux",
+      "SCSS",
+      "Express",
+      "Kubernetes",
+      "Figma"
+    ]
+  },
+  "education": {
+    "title": "Education",
+    "paragraphs": [
+      {
+        "title": "201808 - 201912 • Linköping University • Sweden",
+        "content": ["MSc Computer Science.", "Major in Machine Learning."]
+      },
+      {
+        "title": "201808 - 202005 • Linköping University • Sweden",
+        "content": [
+          "MSc Industrial Engineering and Management.",
+          "Major in Logistics and Supply Chain Management."
+        ]
+      },
+      {
+        "title": "201508 - 201806 • Linköping University • Sweden",
+        "content": "BSc Computer Science."
+      },
+      {
+        "title": "201708-201801 • National Central University • Taiwan",
+        "content": "Exchange semester."
+      }
+    ]
+  },
+  "about": {
+    "title": "About",
+    "paragraphs": [
+      {
+        "content": [
+          "Curious, pragmatic, motivated and equipped with a versatile skillset that enables me to contribute with complementary skills in any team. By combining cross- domain experience, I’m able the engage in business problems with an holistic approach while maintaining a detailed understanding of the technical solution.",
+          "As a consultant for four years, I have extensive experience from developing and releasing business critical software at scale and the software engineering practices that it requires.",
+          "Dog person."
+        ]
+      }
+    ]
+  },
+  "passionProjects": {
+    "title": "Passion Projects",
+    "paragraphs": [
+      {
+        "title": "Social Listening (https://q.edenheim.se)",
+        "content": "Social listening platform that integrates with Spotify and enables a group of users to vote for the next playing track."
+      },
+      {
+        "title": "Queue (https://edenheim.se/queue)",
+        "content": "Online queue platform developed pro-bono to help small shops and businesses during the pandemic."
+      }
+    ]
+  }
+}

@@ -1,0 +1,68 @@
+:root {
+  font-family: Inter, system-ui;
+  font-weight: 400;
+  color: #242424;
+  background-color: #e1e1e1;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+html {
+  margin: 0;
+  padding: 0;
+  width: 100vw;
+}
+
+body {
+  margin: 0;
+  box-sizing: border-box;
+  padding: 5vh 0;
+  font-size: 13px;
+  line-height: 1.2;
+}
+
+main {
+  background-color: #fff;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  box-shadow:
+    rgba(60, 64, 67, 0.3) 0px 1px 2px 0px,
+    rgba(60, 64, 67, 0.15) 0px 1px 3px 1px;
+  border-radius: 3px;
+  overflow: hidden;
+  width: 21cm;
+  height: 29.7cm;
+}
+
+p {
+  font-family: Baskerville, Inter, system-ui;
+}
+
+a,
+a:visited {
+  color: inherit;
+}
+
+@page {
+  size: A4;
+  margin: 0;
+  print-color-adjust: exact;
+}
+
+@media print {
+  body {
+    padding: 0;
+    -webkit-print-color-adjust: exact !important;
+    print-color-adjust: exact !important;
+  }
+
+  main {
+    box-shadow: none;
+  }
+
+  
+}

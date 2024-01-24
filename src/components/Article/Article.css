@@ -1,0 +1,14 @@
+.article {
+    
+}
+.article > h2 {
+    margin: 12px 0 10px 0;
+    border-bottom: solid 4px #264653;
+    padding-bottom: 6px;
+}
+
+.chips {
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+}
