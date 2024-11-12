@@ -58,10 +58,8 @@ export default function Article({
     return (
         <article className="article">
             <h2>{title}</h2>
-            <section>
-                {renderParagraphs(paragraphs)}
-                {renderChips(chips)}
-            </section>
+            {renderParagraphs(paragraphs)}
+            {renderChips(chips)}
         </article>
     )
 }

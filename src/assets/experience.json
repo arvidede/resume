@@ -3,11 +3,11 @@
     "title": "Professional",
     "paragraphs": [
       {
-        "title": "202205 - Present • Booking.com • Amsterdam",
+        "title": "202205 - 202206 • Booking.com • Amsterdam",
         "content": [
           "Fullstack developer in the core platform team, focusing on the development of an in-house micro-frontend framework supporting the replatforming of Booking.com.",
-          "Responsible for a high-criticality orchestrator connecting all frontend services in the Booking.com presentation layer (25k RPS).",
-          "Developed a framework to share and integrate components across all products to enable multi-product offerings while ensuring a consistent customer experience."
+          "Developed a framework to share and integrate components across all products to enable multi-product offerings while ensuring a consistent customer experience.",
+          "Responsible for a high-criticality orchestrator connecting all frontend services in the Booking.com presentation layer with over 25k RPS."
         ]
       },
       {
@@ -30,19 +30,26 @@
       },
       {
         "title": "202001 - 202006 • Volvo Group, Gothenburg",
-        "content": "Master thesis work in Supply Chain optimisation using deep reinforcement learning to optimise the order quantities in Volvo’s aftermarket distribution."
+        "content": "Supply Chain optimisation internship  where I used deep reinforcement learning to optimise the order quantities in Volvo’s aftermarket distribution."
       },
       {
         "title": "201908 - 201912 • Nepa, Stockholm",
-        "content": "Master thesis work in applied factor analysis focusing on improving the core of Nepa’s brand tracking engine. I solely implemented a Dynamic Factor Analysis model that halved the required amount of sourced panelist data, while maintaining the same level of accuracy."
+        "content": "As an intern, I focused on improving the core of Nepa’s brand tracking engine. I solely implemented a Dynamic Factor Analysis model that halved the required amount of sourced panelist data, while maintaining the same level of accuracy."
       },
       {
         "title": "201809 - 201912 • We Know IT, Linköping",
-        "content": "Web and mobile application development with a great variety of full stack projects for mobile and web. As a sole consultant, I completed projects from the idea stage to deployment, with clients within the public sector as well as industry-leading corporations."
-      },
+        "content": "Web and mobile application development with a great variety of full stack projects for mobile and web. As a sole consultant, I completed projects from the idea stage to deployment, with clients ranging from public sector to industry-leading corporations."
+      }
+    ]
+  },
+  "about": {
+    "title": "Summary",
+    "paragraphs": [
       {
-        "title": "201901 - 201905 • Airpelago, Linköping",
-        "content": "Startup aiming to create a web-based platform for drone control in cooperation with the Swedish Sea Rescue Society. Tasks mainly involving frontend development in React with Redux."
+        "content": [
+          "Curious and versatile software engineer with 6 years of experience spanning full-stack development, consulting, and data science across diverse industries such as travel, e-commerce and public service.",
+          "My work has focused on building scalable and efficient systems, from micro-frontend frameworks to machine learning models, while keeping business goals and user needs in focus. I enjoy taking on complex problems with a pragmatic approach and collaborating closely with teams to deliver impactful, user-friendly solutions."
+        ]
       }
     ]
   },
@@ -53,6 +60,7 @@
       "React",
       "Next.js",
       "Node.js",
+      "Fastify",
       "R",
       "Python",
       "TensorFlow",
@@ -61,15 +69,17 @@
       "Jest",
       "AirFlow",
       "GCP",
-      "Docker",
       "SQL",
       "Pandas",
       "Git",
+      "Supabase",
       "Firebase",
-      "Redux",
-      "SCSS",
-      "Express",
       "Kubernetes",
+      "SCSS",
+      "FastAPI",
+      "Express",
+      "Docker",
+      "Redux",
       "Figma"
     ]
   },
@@ -78,7 +88,10 @@
     "paragraphs": [
       {
         "title": "201808 - 201912 • Linköping University • Sweden",
-        "content": ["MSc Computer Science.", "Major in Machine Learning."]
+        "content": [
+          "MSc Computer Science.",
+          "Major in Machine Learning."
+        ]
       },
       {
         "title": "201808 - 202005 • Linköping University • Sweden",
@@ -94,18 +107,6 @@
       {
         "title": "201708-201801 • National Central University • Taiwan",
         "content": "Exchange semester."
-      }
-    ]
-  },
-  "about": {
-    "title": "About",
-    "paragraphs": [
-      {
-        "content": [
-          "Curious, pragmatic, motivated and equipped with a versatile skillset that enables me to contribute with complementary skills in any team. By combining cross- domain experience, I’m able the engage in business problems with an holistic approach while maintaining a detailed understanding of the technical solution.",
-          "As a consultant for four years, I have extensive experience from developing and releasing business critical software at scale and the software engineering practices that it requires.",
-          "Dog person."
-        ]
       }
     ]
   },

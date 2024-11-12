@@ -1,23 +1,23 @@
-import Logo from "../Logo"
+import Icon from "../Icon"
 import "./Footer.css"
 
 export default function Footer() {
     return (
         <footer className="footer">
-            <Logo src="">
+            <Icon type="github">
                 <a href="https://github.com/arvidede">github.com/arvidede</a>
-            </Logo>
-            <Logo src="">
+            </Icon>
+            <Icon type="globe">
+                <a href="https://edenheim.se">edenheim.se</a>
+            </Icon>
+            <Icon type="email">
+                <a href="mailto:arvid@edenheim.se">arvid@edenheim.se</a>
+            </Icon>
+            <Icon type="linkedin">
                 <a href="https://www.linkedin.com/in/arvid-edenheim">
                     linkedin.com/in/arvid-edenheim
                 </a>
-            </Logo>
-            <Logo src="">
-                <a href="edenheim.se">edenheim.se</a>
-            </Logo>
-            <Logo src="">
-                <a href="mailto:arvid@edenheim.se">arvid@edenheim.se</a>
-            </Logo>
+            </Icon>
         </footer>
     )
 }

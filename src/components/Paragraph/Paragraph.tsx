@@ -14,7 +14,7 @@ function renderContent(content?: string | string[]) {
             {content.map((it, idx) => (
                 <Fragment key={idx}>
                     {it}
-                    <br />
+                    {idx < content.length - 1 && <br />}
                 </Fragment>
             ))}
         </p>

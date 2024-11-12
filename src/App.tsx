@@ -1,6 +1,5 @@
 import "./App.css"
 import Header from "./components/Header"
-import Footer from "./components/Footer"
 import Experience from "./components/Experience"
 
 function App() {
@@ -8,7 +7,6 @@ function App() {
         <>
             <Header />
             <Experience />
-            <Footer />
         </>
     )
 }
