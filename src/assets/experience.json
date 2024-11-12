@@ -15,7 +15,7 @@
         "content": "As a consultant, I’ve had the opportunity to work in a multitude of industries, such as public service, food tech and e-comm, enabling me to develop and apply my skills in a wide array of domains.",
         "children": [
           {
-            "title": "202102 - 202204 • SVT • Fullstack Developer",
+            "title": "202102 - 202205 • SVT • Fullstack Developer",
             "content": "As part of a new initiative within Sweden's public service company (SVT), I developed a new planning tool that is used for long term planning of content on the platform SVT Play. Being the only developer for the majority of the project, I was responsible for the complete development process."
           },
           {
@@ -114,12 +114,16 @@
     "title": "Passion Projects",
     "paragraphs": [
       {
-        "title": "Social Listening (https://q.edenheim.se)",
-        "content": "Social listening platform that integrates with Spotify and enables a group of users to vote for the next playing track."
+        "title": "Recipe Summariser (https://recipe.edenheim.se)",
+        "content": "Recipe summariser app that provides a more pleasant experience when reading recipes online."
       },
       {
         "title": "Queue (https://edenheim.se/queue)",
-        "content": "Online queue platform developed pro-bono to help small shops and businesses during the pandemic."
+        "content": "Digital queue platform developed pro-bono to help small shops and businesses during the pandemic."
+      },
+      {
+        "title": "Social Listening (https://q.edenheim.se)",
+        "content": "Social listening platform that integrates with Spotify and enables a group of users to vote for the next playing track."
       }
     ]
   }
